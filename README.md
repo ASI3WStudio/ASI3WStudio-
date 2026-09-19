@@ -1,18 +1,21 @@
 # Hi, I'm ASI3WStudio 👋
 
-> Building ideas into useful, creative, and impactful projects.
+> Building ideas into meaningful, useful, and creative digital experiences.
 
-I’m a developer and creator who enjoys learning, solving problems, and turning concepts into real-world solutions. I like working across engineering, product thinking, and experimentation, and I’m always looking for ways to build smarter, cleaner, and more meaningful work.
+I’m a developer and creator with a passion for solving problems, learning constantly, and turning ideas into real-world projects. I enjoy building thoughtful tools, exploring new technologies, and creating work that is both useful and interesting.
 
-![Profile views](https://komarev.com/ghpvc/?username=ASI3WStudio&label=Profile+views&color=brightgreen)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F9CF5&width=500&lines=Developer+%7C+Builder+%7C+Creator;Always+learning+new+things;Turning+ideas+into+reality" alt="Typing SVG" />
+</p>
 
 ## About Me
 
-- 💼 Profession: [Your profession or current role]
-- 🧠 Focus areas: [e.g. software development, AI, web apps, automation, product building]
-- 🌱 Currently learning: [your current learning goals]
-- 🚀 Favorite type of project: [web apps, tools, APIs, creative projects, data-driven products]
-- 🎯 Goal: [what you want to build or achieve]
+- 💼 Profession: [Your profession / current role]
+- 🧠 Focus: [Software development, product building, automation, web apps, AI, etc.]
+- 🌱 Currently learning: [Your current learning goals]
+- 🚀 Favorite kind of project: [Web apps, tools, automation, creative builds, data-driven products]
+- 🎯 Goal: [What you want to build or achieve]
+- 📷 Instagram: [https://www.instagram.com/e.x.w.3](https://www.instagram.com/e.x.w.3)
 
 ## Skills & Tools
 
@@ -40,61 +43,64 @@ I’m a developer and creator who enjoys learning, solving problems, and turning
 
 ### [Project Name 1]
 
-A short description of the project, what it does, and why it matters.
+A short description of what this project does and why it matters.
 
-- Key stack: [stack]
-- Highlights: [feature 1], [feature 2], [feature 3]
+- Key technologies: [Your stack]
+- Highlights: [Feature 1], [Feature 2], [Feature 3]
 - Link: [GitHub repo or live demo]
 
 ### [Project Name 2]
 
-A second project that showcases your strongest skills or your creative side.
+Another project that showcases your strongest skills or creativity.
 
-- Key stack: [stack]
-- Highlights: [feature 1], [feature 2], [feature 3]
+- Key technologies: [Your stack]
+- Highlights: [Feature 1], [Feature 2], [Feature 3]
 - Link: [GitHub repo or live demo]
 
 ### [Project Name 3]
 
-A project that reflects your interests, personality, or problem-solving approach.
+A project that reflects your interests, style, or problem-solving approach.
 
-- Key stack: [stack]
-- Highlights: [feature 1], [feature 2], [feature 3]
+- Key technologies: [Your stack]
+- Highlights: [Feature 1], [Feature 2], [Feature 3]
 - Link: [GitHub repo or live demo]
 
 ## GitHub Stats
 
-![ASI3WStudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASI3WStudio&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASI3WStudio&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ASI3WStudio&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASI3WStudio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## Current Focus
 
-- 🔨 Building: [your current project or idea]
-- 📚 Learning: [technology, framework, skill, or concept]
-- 🤝 Open to: [collaborations, freelance work, internships, product opportunities]
-- 💬 Ask me about: [your strengths or areas of expertise]
+- 🔨 Building: [Current project or idea]
+- 📚 Learning: [Technology / concept / skill]
+- 🤝 Open to: [Collaboration, freelance work, internships, opportunities]
+- 💬 Ask me about: [Strengths or expertise]
 
-## Connect
+## Connect With Me
 
+- Instagram: [https://www.instagram.com/e.x.w.3](https://www.instagram.com/e.x.w.3)
 - Portfolio: [your portfolio URL]
 - LinkedIn: [your LinkedIn URL]
-- X / Twitter: [@yourhandle]
 - Email: [you@example.com]
 
 ## A Quick Note
 
-> I enjoy turning curiosity into code, and code into something useful.
+> I enjoy turning curiosity into code and code into something meaningful.
 
 ---
 
-Thanks for visiting my profile. If you’re working on something interesting, feel free to connect.
+Thanks for visiting my profile. Let’s build something interesting.
 
-Please send me these details so I can personalize this profile even further:
+Please send me the remaining details to make this profile truly personal:
 
-- Your full name or preferred display name
 - Your profession or current role
 - Your top skills or technologies
-- 2–3 favorite projects you want featured
-- Your portfolio, LinkedIn, or social links
-- Your preferred vibe: professional, creative, minimalist, technical, or startup-focused
+- 2–3 favorite projects to highlight
+- Portfolio, LinkedIn, or other social links
+- Your preferred vibe: professional, creative, minimal, technical, or bold
