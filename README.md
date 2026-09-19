@@ -87,9 +87,9 @@ A project that reflects your interests, style, or problem-solving approach.
 
 - Instagram: [https://www.instagram.com/e.x.w.3](https://www.instagram.com/e.x.w.3)
 - YouTube: [https://www.youtube.com/@e.x.w.3](https://www.youtube.com/@e.x.w.3)
+- Email: [a52201795@gmail.com](mailto:a52201795@gmail.com)
 - Portfolio: [your portfolio URL]
 - LinkedIn: [your LinkedIn URL]
-- Email: [you@example.com]
 
 ## A Quick Note
 
