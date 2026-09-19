@@ -16,6 +16,7 @@ I’m a developer and creator with a passion for solving problems, learning cons
 - 🚀 Favorite kind of project: [Web apps, tools, automation, creative builds, data-driven products]
 - 🎯 Goal: [What you want to build or achieve]
 - 📷 Instagram: [https://www.instagram.com/e.x.w.3](https://www.instagram.com/e.x.w.3)
+- ▶️ YouTube: [https://www.youtube.com/@e.x.w.3](https://www.youtube.com/@e.x.w.3)
 
 ## Skills & Tools
 
@@ -85,6 +86,7 @@ A project that reflects your interests, style, or problem-solving approach.
 ## Connect With Me
 
 - Instagram: [https://www.instagram.com/e.x.w.3](https://www.instagram.com/e.x.w.3)
+- YouTube: [https://www.youtube.com/@e.x.w.3](https://www.youtube.com/@e.x.w.3)
 - Portfolio: [your portfolio URL]
 - LinkedIn: [your LinkedIn URL]
 - Email: [you@example.com]
